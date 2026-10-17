@@ -1,7 +1,3 @@
-* **Company Name:** Tiny Tricky Logics
-* **Contact Email:** [iq.games.fun@gmail.com](mailto:iq.games.fun@gmail.com)
-* **Website:** [https://tinytrickylogics.github.io](https://tinytrickylogics.github.io)
-
 # Welcome to Tiny Tricky Logics 🎮
 
 Welcome to the official portal of **Tiny Tricky Logics**, a dedicated mobile game development studio. We specialize in designing puzzle, trivia, and strategy games that offer engaging, family-friendly entertainment to players around the globe.
